@@ -1,2 +1,2 @@
-# alura-logica-de-programacao-I
-🚀 Exercícios das aulas de Lógica de programação I da Alura - ONE (Oracle Next Education)🚀
+# Exercícios de programação da Alura
+🚀 Exercícios das aulas de programação da Alura - ONE (Oracle Next Education)🚀
