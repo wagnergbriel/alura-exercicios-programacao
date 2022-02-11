@@ -39,8 +39,9 @@ header .container:before{
 }
 
 section{
-	margin: 2em 0;
+	margin: 10em 0;
 	overflow: hidden;
+	padding: 15px;
 }
 
 section h2{
@@ -131,4 +132,8 @@ button[disabled=disabled], button:disabled {
 
 .campo-invalido{
 	border: 1px solid red;
+}
+
+.paciente-invalido{
+	background-color: tomato;
 }
